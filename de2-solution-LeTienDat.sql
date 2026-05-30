@@ -1,5 +1,5 @@
 ﻿-- BÀI 2
-
+--
 USE Tuan2;
 GO
 
